@@ -1,0 +1,14 @@
+packer-cache/
+output*/
+.vagrant/
+*.box
+*.iso
+id_rsa*
+id_rsa.pub
+myrepo
+myrepo.pub
+*~
+.DS_Store
+variables.json
+build/
+packer_cache
